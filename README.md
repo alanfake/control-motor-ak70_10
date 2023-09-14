@@ -1,4 +1,4 @@
-# control-motor-ak70_10
+# CONTROL  MOTOR CUBEMEARS AK70_10
 /*
 mod: ALan Moreno rodriguez
 
