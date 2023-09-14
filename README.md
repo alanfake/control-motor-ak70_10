@@ -18,9 +18,13 @@ comando:
 pack_cmd( float p_in, float v_in, float kp_in, float kd_in, float t_in)
 
 p_in= posicion
+
 v_in= velocidad
+
 kp_in= ganancia kp
+
 kd_in= ganancia kd
+
 t_in = torque
 
 
