@@ -28,9 +28,10 @@ kd_in= ganancia kd
 t_in = torque
 
 
-ejemplo:
+#ejemplo: solo varia el segundo parametro "2". para controlar la velocidad y direccion segun el signo.
 
 pack_cmd(0, 2, 0, 4.5, 0);
-solo varia el segundo parametro "2".
+
+
 
 
